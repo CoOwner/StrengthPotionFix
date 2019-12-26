@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Dr. Burke/Documents/Spark/Kitmap/plugins/PermissionsEx-1.23.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dr. Burke/Documents/Spark/Kitmap/plugins/ProtocolLib (6).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dr. Burke/Documents/Spark/Kitmap/plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dr. Burke/Documents/Spark/Kitmap/plugins/worldedit-bukkit-6.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dr. Burke/Documents/vexus lol/practice-old/break.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
